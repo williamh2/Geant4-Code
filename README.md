@@ -1,7 +1,7 @@
 Original Source: https://github.com/giglio0/DRAGON-G4-LaBr3/tree/DetectorConstructiondebug
 
 # DRAGON-G4-LaBr3
-Development of GEANT4 code for the LaBr3 Gamma Ray Detector
+Development of GEANT4 Code for the LaBr3 Gamma Ray Detector
 # Overview
 This is the development code for a LaBr3 gamma ray detector for DRAGON at TRIUMF. The intention of the simulation development is to test various properties and characteristics of LaBr3 to be used in a possible future replacement for the DRAGON BGO gamma array.The code is being built to be generalized for various geometries of LaBr3 crystal that the user can set at run-time. The code will include the internal radiation present in all LaBr3 scintillation detectors. The GPS module of G4 is being used to expose the crystal to various energies of gamma rays. The source characteristics can be controlled at run-time. 
 # How to Compile
