@@ -1,4 +1,4 @@
-Original Source: https://github.com/giglio0/DRAGON-G4-LaBr3/tree/DetectorConstructiondebug
+Also available on: https://github.com/giglio0/DRAGON-G4-LaBr3/tree/DetectorConstructiondebug
 
 # DRAGON-G4-LaBr3
 Development of GEANT4 Code for the LaBr3 Gamma Ray Detector
